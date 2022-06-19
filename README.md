@@ -1,14 +1,6 @@
 # Weekly Nerd
 
-Tijdens de minor web kreeg ik elke week aantal sessies bijgewoond om kennis te maken met het vakgebied. Hieronder de aantekeningen en artikelen van de weekly mingle en weekly nerds.
-
-## Artikelen
-
-Léonie Watson (Toegankelijkheid op het web)
-
-Wat is D3?
-
-Wat is typescript?
+Tijdens de minor web kreven informatie over het vakgebied van verschillenden bedrijfen en mensen die in het vakgebied werken. Hieronder de aantekeningen en artikelen van de weekly mingle en weekly nerds.
 
 ## Notities
 
@@ -64,5 +56,11 @@ Ik ben niet bij dit bedrijf geweest maar uit informatie van het internet heb ik 
 
 Mijn eerste indruk is dat het bedrijf heel groot is met veel werknemers maar liefs 1000. Het bedrijf doet veel verschillenden werkzaamheden in het gebied van digitale marketing. DEPT maakt vele coole projecten en afhankelijk van de klant kiezen ze het framework om mee te werken, Als een klant bijvoorbeeld react wil op de website wordt altijd eerst aangeraden om dit niet te doen maar als ze dat toch willen zijn er altijd wel mensen die dat wel kunnen regelen. Wat ook naar voren kwam bij dept is dat ze het wel leuk vinden om een borel te doen op het einde van de week met veel muziek en gratis eten en drinken van de zaak.
 
+## Artikelen
 
+[Léonie Watson (Toegankelijkheid op het web).pdf](https://github.com/timmit147/weekly-nerd-2122/files/8936354/Leonie.Watson.Toegankelijkheid.op.het.web.pdf)
+
+[Wat is D3.pdf](https://github.com/timmit147/weekly-nerd-2122/files/8936353/Wat.is.D3.pdf)
+
+[Wat is typescript.pdf](https://github.com/timmit147/weekly-nerd-2122/files/8936355/Wat.is.typescript.pdf)
 
