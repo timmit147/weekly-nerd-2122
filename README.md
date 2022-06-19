@@ -10,9 +10,10 @@ Dit is een bedrijf in Amsterdam dat zich bezig houd met het ontwerpen van websit
 
 <img src="https://user-images.githubusercontent.com/29665951/174475468-3206f742-29e2-4d64-bc30-0675e519f35e.jpg"  width="300px">
 
-### Vitaly Friedman
+### Rian Rietveld
 
-Vitaly liet in een presentatie zie wat je wel en niet moet doen tijdens het ontwerpen op het internet. Tijdens de presentatie heeft hij vooral gepraat over het maken van formulieren. Lees meer
+Deze week kregen we uitleg over het ontwerpen voor een cognitieve beperking. Je hebt tijdelijk en permanenten beperking en elke beperking heeft andere nadelen in het gebruik van het internet. Door het ontwerp makelijk te maken om te gebruiken en direct duilijk is wat je moet doen zorgt dit voor een beter ontwerp. Lees meer hoe je een ontwerp beter kan maken.
+
 
 <img src="https://user-images.githubusercontent.com/29665951/174475544-a3e733e8-bbd3-4fb8-a56b-e359a3acb79c.jpg"  width="300px">
 
@@ -38,8 +39,9 @@ Léonie Watson is blind en gebruikt het internet anders dan een persoon die wel 
 
 ### Chanel
 
-### Rian Rietveld
+### Vitaly Friedman
 
+Vitaly liet in een presentatie zie wat je wel en niet moet doen tijdens het ontwerpen op het internet. Tijdens de presentatie heeft hij vooral gepraat over het maken van formulieren. 
 
 ### Build in Amsterdam
 
