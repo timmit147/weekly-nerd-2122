@@ -33,13 +33,13 @@ Léonie Watson is blind en gebruikt het internet anders dan een persoon die wel 
 
 ### Fenna de Wilde
 
-### Rik Schennink
-
 ### Krijn Hoetme
 Wat we vooral te zien kregen was hoe hij een app had gemaakt om bij te houden wat de score is van een badminton wedstrijd. De app werkt door een website te open op een grote televisie en daarna met je mobiel een QR code gaat scannen om te connecten met de televisie. Wanneer je geconect bent met de televisie kon je de teamnaam instellen en klikken op start. Elke keer dat een punt was gescoord kon je op de mobiel een punt toevoegen en zag je dit tevoorschijn op de tv. De presentatie ging vooral over hoe hij dit technies voorelkaar heeft gekregen en welke stappen hij had genomen om tot het eindrecultaat te komen.
 
 
 ### Chanel Mepschen
+
+Tijdens de presentatie werd verteld hoe ze heeft gewerkt aan de website van Triple. Er werd veel verteld over verschillende tools die ze heeft gebruikt zoals: Git, npm, React en Next.js, TypeScript,Eslint en Prettier, SASS, Webpack en Vite, Babel, Azure. Het intresantste was dat ze verschillenden omgevingen hadden van website bijvoorbeeld development omgeving, klanten omgeving en een productie omgeving zodat de klant eerst akoort moet geven voordat het goed was.
 
 ### Vitaly Friedman
 
