@@ -1,6 +1,6 @@
 # Weekly Nerd
 
-Tijdens de minor web kreeg ik elke week aantal sessies bijgewoond om kennis te maken met het vakgebied. 
+Tijdens de minor web kreeg ik elke week aantal sessies bijgewoond om kennis te maken met het vakgebied. Hieronder de aantekeningen en artikelen van de weekly mingle en weekly nerds.
 
 ## Artikelen
 
@@ -12,7 +12,7 @@ Dit is een bedrijf in Amsterdam dat zich bezig houd met het ontwerpen van websit
 
 ### Rian Rietveld
 
-Deze week kregen we uitleg over het ontwerpen voor een cognitieve beperking. Je hebt tijdelijk en permanenten beperking en elke beperking heeft andere nadelen in het gebruik van het internet. Door het ontwerp makelijk te maken om te gebruiken en direct duilijk is wat je moet doen zorgt dit voor een beter ontwerp. Lees meer hoe je een ontwerp beter kan maken.
+Deze week kregen we uitleg over het ontwerpen voor een cognitieve beperking. Je hebt tijdelijk en permanenten beperking en elke beperking heeft andere nadelen in het gebruik van het internet. Door het ontwerp makelijk te maken om te gebruiken en direct duilijk is wat je moet doen zorgt dit voor een beter ontwerp. Lees meer hoe je een ontwerp beter kan maken. Lees meer
 
 
 <img src="https://user-images.githubusercontent.com/29665951/174475544-a3e733e8-bbd3-4fb8-a56b-e359a3acb79c.jpg"  width="300px">
@@ -36,12 +36,14 @@ Léonie Watson is blind en gebruikt het internet anders dan een persoon die wel 
 ### Rik Schennink
 
 ### Krijn Hoetme
+Wat we vooral te zien kregen was hoe hij een app had gemaakt om bij te houden wat de score is van een badminton wedstrijd. De app werkt door een website te open op een grote televisie en daarna met je mobiel een QR code gaat scannen om te connecten met de televisie. Wanneer je geconect bent met de televisie kon je de teamnaam instellen en klikken op start. Elke keer dat een punt was gescoord kon je op de mobiel een punt toevoegen en zag je dit tevoorschijn op de tv. De presentatie ging vooral over hoe hij dit technies voorelkaar heeft gekregen en welke stappen hij had genomen om tot het eindrecultaat te komen.
 
-### Chanel
+
+### Chanel Mepschen
 
 ### Vitaly Friedman
 
-Vitaly liet in een presentatie zie wat je wel en niet moet doen tijdens het ontwerpen op het internet. Tijdens de presentatie heeft hij vooral gepraat over het maken van formulieren. 
+Vitaly liet in een presentatie zie wat je wel en niet moet doen tijdens het ontwerpen op het internet. Tijdens de presentatie heeft hij vooral gepraat over hoe je design patronen kan toepassen bij bijvoorbeeld een formulier of een menu. 
 
 ### Build in Amsterdam
 
