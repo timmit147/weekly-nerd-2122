@@ -35,6 +35,7 @@ De eerste weekly nerd kwam Cyd ons vertelden over het werken als front-ender. Al
 Alvaro is een persoon die super coole website kan maken met alleen HTML en CSS. Hij gebruikt geen frameworks of javascript om websites en games te maken maar doet dit alemaal met CSS omdat hij denkt dat met de basis CSS je heel veel kan maken.
 
 ### Fenna de Wilde
+Fenna is een frontender die samen met ontwerpers unieke en interactieve websites maakt. Ze liet een aantal websites zien die ze heeft gemaakt waarbij wanneer je scrollt de website gaat bewegen om een unieke manier. Wat ik vooral cool vond was dat ze generated art heeft gemaakt met css en wiskundige algoritmes, Ik zelf vind het heel intresand om te werken met algoritmes en formules en dat je hier ook kunst mee kan maken is nog vetter.
 
 ### Krijn Hoetme
 Wat we vooral te zien kregen was hoe hij een app had gemaakt om bij te houden wat de score is van een badminton wedstrijd. De app werkt door een website te open op een grote televisie en daarna met je mobiel een QR code gaat scannen om te connecten met de televisie. Wanneer je geconect bent met de televisie kon je de teamnaam instellen en klikken op start. Elke keer dat een punt was gescoord kon je op de mobiel een punt toevoegen en zag je dit tevoorschijn op de tv. De presentatie ging vooral over hoe hij dit technies voorelkaar heeft gekregen en welke stappen hij had genomen om tot het eindrecultaat te komen.
