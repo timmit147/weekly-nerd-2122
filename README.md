@@ -29,7 +29,10 @@ Léonie Watson is blind en gebruikt het internet anders dan een persoon die wel 
 
 ### Cyd Stumpel
 
+De eerste weekly nerd kwam Cyd ons vertelden over het werken als front-ender. Als front-ender krijg je meestal een ontwerp dat je moet namaken maar niet alles is gemaakt bijvoorbeeld moet je zelf gaan nadenken of een website responsive is en welke interacties je wil gaan toevoegen op de websites. Wat ik interessant vond was dat ze een jurry is bij Awwards, Ik kijk vaak op deze website om inspiratie op te roepen voor het maken van mijn eigen websites. 
+
 ### Alvaro Montoro
+Alvaro is een persoon die super coole website kan maken met alleen HTML en CSS. Hij gebruikt geen frameworks of javascript om websites en games te maken maar doet dit alemaal met CSS omdat hij denkt dat met de basis CSS je heel veel kan maken.
 
 ### Fenna de Wilde
 
@@ -49,9 +52,9 @@ Vitaly liet in een presentatie zie wat je wel en niet moet doen tijdens het ontw
 
 Dit bedrijf maakt ecommerce websites dat een verhaal verteld. Het bedrijf heeft 50 werknemers en heeft 1/5 werknemers uit het buitenland. Bij het maken van de websites maken ze veel gebruik van beeld inplaats van tekten wat het makelijker maakt om de informatie te begrijpen. We kregen tijdens de presentatie een uitleg hoe je een paralax effect kon maken met javascript. De denkwijze van hoe ze tot een oplossing komen is heel systematich door eerst het uitschetsen van wat er moet gebeuren daarna opschijven welke informatie je nodig hebt en daarna de informatie omzetten naar code. 
 
-### De Voorhoede
+### De Voorhoede 
 
-Dit bedrijf maakt apps en websites en prototypes maar houd zich ook bezig met het maken van tools en integraties in syteemen. Dit is niet een bedrijf dat alles maakt maar richt zich vooral op het werken met front-end. De naam de voorhoede heeft deze naam omdat het doel van het bedrijf is nieuwe Kennisdelen en leren van elkaar. Bij het bedrijf wordt veel geled dat je je fijn voeld in wat je maakt en doet.
+Ik ben niet bij dit bedrijf geweest maar uit informatie van het internet heb ik dit te weten gekomen over het bedrijf. Dit bedrijf maakt apps en websites en prototypes maar houd zich ook bezig met het maken van tools en integraties in syteemen. Dit is niet een bedrijf dat alles maakt maar richt zich vooral op het werken met front-end. De naam de voorhoede heeft deze naam omdat het doel van het bedrijf is nieuwe Kennisdelen en leren van elkaar. Bij het bedrijf wordt veel geled dat je je fijn voeld in wat je maakt en doet.
 
 ### DEPT
 
