@@ -43,9 +43,13 @@ Léonie Watson is blind en gebruikt het internet anders dan een persoon die wel 
 
 ### Build in Amsterdam
 
+Dit bedrijf maakt websites dat een verhalen vertellen. Het bedrijf heeft 50 werknemers en heeft 1/5 werknemers uit het buitenland. Bij het maken van de websites maken ze veel gebruik van beeld inplaats van tekten wat het makelijker maakt om de informatie te begrijpen. We kregen tijdens de presentatie een uitleg hoe je een paralax effect kon maken met javascript. De denkwijze van hoe ze tot een oplossing komen is heel systematich door eerst het uitschetsen van wat er moet gebeuren daarna opschijven welke informatie je nodig hebt en daarna de informatie omzetten naar code. 
+
 ### De Voorhoede
 
 ### DEPT
+
+Mijn eerste indruk is dat het bedrijf heel groot is met veel werknemers maar liefs 1000. Het bedrijf doet veel verschillenden werkzaamheden in het gebied van digitale marketing. DEPT maakt vele coole projecten en afhankelijk van de klant kiezen ze het framework om mee te werken, Als een klant bijvoorbeeld react wil op de website wordt altijd eerst aangeraden om dit niet te doen maar als ze dat toch willen zijn er altijd wel mensen die dat wel kunnen regelen. Wat ook naar voren kwam bij dept is dat ze het wel leuk vinden om een borel te doen op het einde van de week met veel muziek en gratis eten en drinken van de zaak.
 
 
 
