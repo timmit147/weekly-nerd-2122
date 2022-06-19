@@ -43,9 +43,11 @@ Léonie Watson is blind en gebruikt het internet anders dan een persoon die wel 
 
 ### Build in Amsterdam
 
-Dit bedrijf maakt websites dat een verhalen vertellen. Het bedrijf heeft 50 werknemers en heeft 1/5 werknemers uit het buitenland. Bij het maken van de websites maken ze veel gebruik van beeld inplaats van tekten wat het makelijker maakt om de informatie te begrijpen. We kregen tijdens de presentatie een uitleg hoe je een paralax effect kon maken met javascript. De denkwijze van hoe ze tot een oplossing komen is heel systematich door eerst het uitschetsen van wat er moet gebeuren daarna opschijven welke informatie je nodig hebt en daarna de informatie omzetten naar code. 
+Dit bedrijf maakt ecommerce websites dat een verhaal verteld. Het bedrijf heeft 50 werknemers en heeft 1/5 werknemers uit het buitenland. Bij het maken van de websites maken ze veel gebruik van beeld inplaats van tekten wat het makelijker maakt om de informatie te begrijpen. We kregen tijdens de presentatie een uitleg hoe je een paralax effect kon maken met javascript. De denkwijze van hoe ze tot een oplossing komen is heel systematich door eerst het uitschetsen van wat er moet gebeuren daarna opschijven welke informatie je nodig hebt en daarna de informatie omzetten naar code. 
 
 ### De Voorhoede
+
+Dit bedrijf maakt apps en websites en prototypes maar houd zich ook bezig met het maken van tools en integraties in syteemen. Dit is niet een bedrijf dat alles maakt maar richt zich vooral op het werken met front-end. De naam de voorhoede heeft deze naam omdat het doel van het bedrijf is nieuwe Kennisdelen en leren van elkaar. Bij het bedrijf wordt veel geled dat je je fijn voeld in wat je maakt en doet.
 
 ### DEPT
 
