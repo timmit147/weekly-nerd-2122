@@ -4,27 +4,31 @@ Tijdens de minor web kreeg ik elke week aantal sessies bijgewoond om kennis te m
 
 ## Artikelen
 
+Léonie Watson (Toegankelijkheid op het web)
+
+Wat is D3?
+
+Wat is typescript?
+
+## Notities
+
 ### Label A
 
-Dit is een bedrijf in Amsterdam dat zich bezig houd met het ontwerpen van websites het maken van websites en het analiceerd van data om een conclusies te trekken hoe een bedrijf beter kan worden. Lees meer
+Ik ben 25 mei langs gegaan bij Label A om kennis te maken met het bedrijfsleven. We kregen een rondleiding door het gebouw en het is ingericht dat 1 verdieping is voor de frontenders en de andere verdieping voor de backenders. Het bedrijf werkt met flexplekken en je kan daardoor zelf kiezen waar je wil zitten. Dit is een bedrijf in Amsterdam dat zich bezig houd met het ontwerpen van websites het maken van websites en het analiceerd van data om een conclusies te trekken hoe een bedrijf beter kan worden.  
 
 <img src="https://user-images.githubusercontent.com/29665951/174475468-3206f742-29e2-4d64-bc30-0675e519f35e.jpg"  width="300px">
 
 ### Rian Rietveld
 
-Deze week kregen we uitleg over het ontwerpen voor een cognitieve beperking. Je hebt tijdelijk en permanenten beperking en elke beperking heeft andere nadelen in het gebruik van het internet. Door het ontwerp makelijk te maken om te gebruiken en direct duilijk is wat je moet doen zorgt dit voor een beter ontwerp. Lees meer hoe je een ontwerp beter kan maken. Lees meer
+Deze week kregen we uitleg over het ontwerpen voor een cognitieve beperking. Je hebt tijdelijk en permanenten beperking en elke beperking heeft andere nadelen in het gebruik van het internet. Door het ontwerp makkelijk te maken om te gebruiken en direct duidelijk is wat je moet doen zorgt dit voor een beter ontwerp. Lees meer hoe je een ontwerp beter kan maken.
 
 <img src="https://user-images.githubusercontent.com/29665951/174490563-ec61d3d8-ffe3-42da-80fd-14341ca44af5.jpg"  width="300px">
 
 ### Léonie Watson
 
-Léonie Watson is blind en gebruikt het internet anders dan een persoon die wel kan zien. Léonie is een persoon die ervoor wil zorgen dat iedereen die op het internet zit, gebruik kan maken van het internet. Lees meer
+Léonie Watson is blind en gebruikt het internet anders dan een persoon die wel kan zien. Léonie is een persoon die ervoor wil zorgen dat iedereen die op het internet zit, gebruik kan maken van het internet. 
 
 <img src="https://user-images.githubusercontent.com/29665951/174475559-223f5267-2b61-4585-93cb-3bb59ec054a7.jpg"  width="300px">
-
-
-
-## Notities
 
 ### Cyd Stumpel
 
