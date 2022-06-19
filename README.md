@@ -14,8 +14,7 @@ Dit is een bedrijf in Amsterdam dat zich bezig houd met het ontwerpen van websit
 
 Deze week kregen we uitleg over het ontwerpen voor een cognitieve beperking. Je hebt tijdelijk en permanenten beperking en elke beperking heeft andere nadelen in het gebruik van het internet. Door het ontwerp makelijk te maken om te gebruiken en direct duilijk is wat je moet doen zorgt dit voor een beter ontwerp. Lees meer hoe je een ontwerp beter kan maken. Lees meer
 
-
-<img src="https://user-images.githubusercontent.com/29665951/174475544-a3e733e8-bbd3-4fb8-a56b-e359a3acb79c.jpg"  width="300px">
+<img src="https://user-images.githubusercontent.com/29665951/174490563-ec61d3d8-ffe3-42da-80fd-14341ca44af5.jpg"  width="300px">
 
 ### Léonie Watson
 
